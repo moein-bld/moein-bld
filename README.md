@@ -5,12 +5,11 @@
 
 <div>
 	
-- 🌱 I’m currently Working with **Angular.js**
+- 🌱 I’m currently Working with **Vue.js**
 - :neutral_face: I have a **love** relationship with **Programming** and **Games**
 - 💬 Ask me about anything, I am happy to help
 - 🚀 Always ready to collaborate for Dev Experiments
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
-- 😭 I’m looking for help with Data Structures and Algorithms
 	
 <div>
 	
