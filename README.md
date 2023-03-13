@@ -7,8 +7,6 @@
 <img src='https://i.pinimg.com/originals/aa/83/fa/aa83fa67b15cef9525e08a90fac02c1f.gif' align='right' style='margin-bottom: 32px;'>
 &nbsp;
 &nbsp;
-<br />
-<br />
 
 
 - 🌱 I’m currently Working with **VueJS,NuxtJS**
