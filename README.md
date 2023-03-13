@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="./ghost.mp4" width="100%">
+  <img src="./ghost.mov" width="100%">
 </p>
 
 <!--
