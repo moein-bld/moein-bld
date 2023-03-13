@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<video width="100%" autoplay>
-  <source src="https://user-images.githubusercontent.com/79712314/224741410-9137494a-2371-42eb-bccb-60622f467202.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<video src="https://user-images.githubusercontent.com/79712314/224741410-9137494a-2371-42eb-bccb-60622f467202.mp4" autoplay loop muted>
 </video>
+
 
 
 
