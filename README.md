@@ -77,3 +77,12 @@
   
 
 <h2 align="left">:heart: Let's get connected:</h2>
+  
+<a href="https://t.me/Moein_bld" target="_blank">
+  <img src="https://user-images.githubusercontent.com/79712314/224837554-3fa19f58-e337-4daa-b5ad-66de966f786e.gif" alt="telegram" width="40" height="40"/>
+</a>
+  
+<a href="https://instagram.com/moein_bld" target="_blank">
+  <img src="https://user-images.githubusercontent.com/79712314/224837811-3b0cdac2-7fe6-4fa0-b90c-80f511d9bb96.gif" alt="instagram" width="40" height="40"/>
+</a>
+
