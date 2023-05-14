@@ -4,9 +4,6 @@
 </h2> 
 
 <div>
-<img src='https://i.pinimg.com/originals/aa/83/fa/aa83fa67b15cef9525e08a90fac02c1f.gif' align='right' style='margin-bottom: 32px;'>
-&nbsp;
-&nbsp;
 
 
 - 🌱 I’m currently Working with **VueJS,NuxtJS**
@@ -18,9 +15,6 @@
   
 <div>
 <br />
-<br />
-<br />
-
 <div>
   
   <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -72,15 +66,18 @@
  
 <br />
 </div>
-  
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
-  
+
 <a href="https://t.me/Moein_bld" target="_blank">
-  <img src="https://user-images.githubusercontent.com/79712314/224837554-3fa19f58-e337-4daa-b5ad-66de966f786e.gif" alt="telegram" width="40" height="40"/>
+  <img src="https://github.com/moein-bld/moein-bld/assets/79712314/a8429250-0cbb-46d1-9ad6-b82fb8b99349" alt="telegram" width="40" height="40"/>
 </a>
   
 <a href="https://instagram.com/moein_bld" target="_blank">
-  <img src="https://user-images.githubusercontent.com/79712314/224837811-3b0cdac2-7fe6-4fa0-b90c-80f511d9bb96.gif" alt="instagram" width="40" height="40"/>
+  <img src="https://github.com/moein-bld/moein-bld/assets/79712314/8d077bb1-c29a-4100-a0e2-b3bc27244820" alt="instagram" width="40" height="40"/>
 </a>
 
+<a href="=https://www.linkedin.com/in/moein-bolidhe-ab0ba8270" target="_blank">
+  <img src="https://github.com/moein-bld/moein-bld/assets/79712314/91fcf7de-8cba-4b76-9490-6052c9b244fb" alt="linkedin" width="40" height="40"/>
+</a>
