@@ -5,7 +5,7 @@
 
 <div>
 	
-- 🌱 I’m currently Working with **VueJS,NuxtJS**
+- 🌱 I’m currently Working with **Angular.js**
 - :neutral_face: I have a **love** relationship with **Programming** and **Games**
 - 💬 Ask me about anything, I am happy to help
 - 🚀 Always ready to collaborate for Dev Experiments
@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/246768658-ef91131f-bbdb-4098-91b5-23aab8320ed0.svg" alt="react" width="40" height="40"/>
 </a>
 
 <a href="https://nodejs.org" target="_blank">
