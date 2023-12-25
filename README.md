@@ -48,7 +48,7 @@
   <img src="https://user-images.githubusercontent.com/79712314/224833611-7aa7c2de-2747-403b-848a-3ca6bbd84f65.svg" alt="vue" width="40" height="40"/>
 </a>
 
-<a href="https://reactjs.org/" target="_blank">
+<a href="https://angular.io/" target="_blank">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/246768658-ef91131f-bbdb-4098-91b5-23aab8320ed0.svg" alt="react" width="40" height="40"/>
 </a>
 
