@@ -77,9 +77,6 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238192520-a8429250-0cbb-46d1-9ad6-b82fb8b99349.svg" alt="telegram" width="40" height="40"/>
 </a>
 
-<a href="https://instagram.com/moein_bld" target="_blank">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238192493-8d077bb1-c29a-4100-a0e2-b3bc27244820.svg" alt="instagram" width="40" height="40"/>
-</a>
 
 <a href="https://www.linkedin.com/in/moein-bolidhe-ab0ba8270" target="_blank">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/79712314/238661011-148a23f5-07be-4fb9-bda2-6671852ca716.svg" alt="linkedin" width="40" height="40"/>
